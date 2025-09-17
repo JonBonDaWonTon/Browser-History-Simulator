@@ -1,0 +1,589 @@
+Loading file: proj5_data1.txt
+
+Welcome to the Browser History Simulator
+
+Current Website:
+URL:https://my.umbc.edu/ Visited On: 2024-10-02 07:38:45
+
+What would you like to do?
+1. Display Browser History
+2. Go Back
+3. Go Forward
+4. Visit Site
+5. Quit
+1
+
+**Back Stack**
+1. URL:https://myaccount.laxmicoin.com/register?ref=lo08cp432io0w8k4 Visited On: 2024-10-09 16:11:31
+2. URL:https://github.com/shawon100 Visited On: 2024-10-14 07:21:35
+3. URL:http://ruetoc-ruetoc.193b.starter-ca-central-1.openshiftapps.com/ Visited On: 2024-10-21 05:28:09
+4. URL:http://ruetoj-ruetoj.193b.starter-ca-central-1.openshiftapps.com/home.php Visited On: 2024-10-22 06:09:19
+5. URL:http://daler.org/ Visited On: 2024-10-24 05:42:44
+6. URL:https://console.starter-ca-central-1.openshift.com/console/ Visited On: 2024-10-24 06:33:51
+7. URL:https://www.youtube.com/ Visited On: 2024-11-13 08:53:40
+8. URL:http://localhost/phpmyadmin/ Visited On: 2024-11-14 01:11:08
+9. URL:https://drive.google.com/drive/my-drive Visited On: 2024-11-14 04:27:25
+10. URL:https://web.facebook.com/?_rdc=1&_rdr Visited On: 2024-11-14 05:53:21
+
+**Forward Stack**
+Empty
+
+
+Current Website:
+URL:https://my.umbc.edu/ Visited On: 2024-10-02 07:38:45
+
+What would you like to do?
+1. Display Browser History
+2. Go Back
+3. Go Forward
+4. Visit Site
+5. Quit
+3
+Current Website:
+URL:https://my.umbc.edu/ Visited On: 2024-10-02 07:38:45
+
+What would you like to do?
+1. Display Browser History
+2. Go Back
+3. Go Forward
+4. Visit Site
+5. Quit
+1
+
+**Back Stack**
+1. URL:https://myaccount.laxmicoin.com/register?ref=lo08cp432io0w8k4 Visited On: 2024-10-09 16:11:31
+2. URL:https://github.com/shawon100 Visited On: 2024-10-14 07:21:35
+3. URL:http://ruetoc-ruetoc.193b.starter-ca-central-1.openshiftapps.com/ Visited On: 2024-10-21 05:28:09
+4. URL:http://ruetoj-ruetoj.193b.starter-ca-central-1.openshiftapps.com/home.php Visited On: 2024-10-22 06:09:19
+5. URL:http://daler.org/ Visited On: 2024-10-24 05:42:44
+6. URL:https://console.starter-ca-central-1.openshift.com/console/ Visited On: 2024-10-24 06:33:51
+7. URL:https://www.youtube.com/ Visited On: 2024-11-13 08:53:40
+8. URL:http://localhost/phpmyadmin/ Visited On: 2024-11-14 01:11:08
+9. URL:https://drive.google.com/drive/my-drive Visited On: 2024-11-14 04:27:25
+10. URL:https://web.facebook.com/?_rdc=1&_rdr Visited On: 2024-11-14 05:53:21
+
+**Forward Stack**
+Empty
+
+
+Current Website:
+URL:https://my.umbc.edu/ Visited On: 2024-10-02 07:38:45
+
+What would you like to do?
+1. Display Browser History
+2. Go Back
+3. Go Forward
+4. Visit Site
+5. Quit
+2
+Current Website:
+URL:https://myaccount.laxmicoin.com/register?ref=lo08cp432io0w8k4 Visited On: 2024-10-09 16:11:31
+
+What would you like to do?
+1. Display Browser History
+2. Go Back
+3. Go Forward
+4. Visit Site
+5. Quit
+2
+Current Website:
+URL:https://github.com/shawon100 Visited On: 2024-10-14 07:21:35
+
+What would you like to do?
+1. Display Browser History
+2. Go Back
+3. Go Forward
+4. Visit Site
+5. Quit
+2
+Current Website:
+URL:http://ruetoc-ruetoc.193b.starter-ca-central-1.openshiftapps.com/ Visited On: 2024-10-21 05:28:09
+
+What would you like to do?
+1. Display Browser History
+2. Go Back
+3. Go Forward
+4. Visit Site
+5. Quit
+2
+Current Website:
+URL:http://ruetoj-ruetoj.193b.starter-ca-central-1.openshiftapps.com/home.php Visited On: 2024-10-22 06:09:19
+
+What would you like to do?
+1. Display Browser History
+2. Go Back
+3. Go Forward
+4. Visit Site
+5. Quit
+4
+Enter the URL of the new site:
+www.cmsc202.edu
+Current Website:
+URL:www.cmsc202.edu Visited On: 2024-11-15 12:16:21
+
+What would you like to do?
+1. Display Browser History
+2. Go Back
+3. Go Forward
+4. Visit Site
+5. Quit
+1
+
+**Back Stack**
+1. URL:http://ruetoj-ruetoj.193b.starter-ca-central-1.openshiftapps.com/home.php Visited On: 2024-10-22 06:09:19
+2. URL:http://daler.org/ Visited On: 2024-10-24 05:42:44
+3. URL:https://console.starter-ca-central-1.openshift.com/console/ Visited On: 2024-10-24 06:33:51
+4. URL:https://www.youtube.com/ Visited On: 2024-11-13 08:53:40
+5. URL:http://localhost/phpmyadmin/ Visited On: 2024-11-14 01:11:08
+6. URL:https://drive.google.com/drive/my-drive Visited On: 2024-11-14 04:27:25
+7. URL:https://web.facebook.com/?_rdc=1&_rdr Visited On: 2024-11-14 05:53:21
+
+**Forward Stack**
+1. URL:http://ruetoc-ruetoc.193b.starter-ca-central-1.openshiftapps.com/ Visited On: 2024-10-21 05:28:09
+2. URL:https://github.com/shawon100 Visited On: 2024-10-14 07:21:35
+3. URL:https://myaccount.laxmicoin.com/register?ref=lo08cp432io0w8k4 Visited On: 2024-10-09 16:11:31
+4. URL:https://my.umbc.edu/ Visited On: 2024-10-02 07:38:45
+
+Current Website:
+URL:www.cmsc202.edu Visited On: 2024-11-15 12:16:21
+
+What would you like to do?
+1. Display Browser History
+2. Go Back
+3. Go Forward
+4. Visit Site
+5. Quit
+2
+Current Website:
+URL:http://ruetoj-ruetoj.193b.starter-ca-central-1.openshiftapps.com/home.php Visited On: 2024-10-22 06:09:19
+
+What would you like to do?
+1. Display Browser History
+2. Go Back
+3. Go Forward
+4. Visit Site
+5. Quit
+2
+Current Website:
+URL:http://daler.org/ Visited On: 2024-10-24 05:42:44
+
+What would you like to do?
+1. Display Browser History
+2. Go Back
+3. Go Forward
+4. Visit Site
+5. Quit
+2
+Current Website:
+URL:https://console.starter-ca-central-1.openshift.com/console/ Visited On: 2024-10-24 06:33:51
+
+What would you like to do?
+1. Display Browser History
+2. Go Back
+3. Go Forward
+4. Visit Site
+5. Quit
+2
+Current Website:
+URL:https://www.youtube.com/ Visited On: 2024-11-13 08:53:40
+
+What would you like to do?
+1. Display Browser History
+2. Go Back
+3. Go Forward
+4. Visit Site
+5. Quit
+2
+Current Website:
+URL:http://localhost/phpmyadmin/ Visited On: 2024-11-14 01:11:08
+
+What would you like to do?
+1. Display Browser History
+2. Go Back
+3. Go Forward
+4. Visit Site
+5. Quit
+2
+Current Website:
+URL:https://drive.google.com/drive/my-drive Visited On: 2024-11-14 04:27:25
+
+What would you like to do?
+1. Display Browser History
+2. Go Back
+3. Go Forward
+4. Visit Site
+5. Quit
+2
+Current Website:
+URL:https://web.facebook.com/?_rdc=1&_rdr Visited On: 2024-11-14 05:53:21
+
+What would you like to do?
+1. Display Browser History
+2. Go Back
+3. Go Forward
+4. Visit Site
+5. Quit
+2
+Current Website:
+URL:https://web.facebook.com/?_rdc=1&_rdr Visited On: 2024-11-14 05:53:21
+
+What would you like to do?
+1. Display Browser History
+2. Go Back
+3. Go Forward
+4. Visit Site
+5. Quit
+1
+
+**Back Stack**
+Empty
+
+**Forward Stack**
+1. URL:https://drive.google.com/drive/my-drive Visited On: 2024-11-14 04:27:25
+2. URL:http://localhost/phpmyadmin/ Visited On: 2024-11-14 01:11:08
+3. URL:https://www.youtube.com/ Visited On: 2024-11-13 08:53:40
+4. URL:https://console.starter-ca-central-1.openshift.com/console/ Visited On: 2024-10-24 06:33:51
+5. URL:http://daler.org/ Visited On: 2024-10-24 05:42:44
+6. URL:http://ruetoj-ruetoj.193b.starter-ca-central-1.openshiftapps.com/home.php Visited On: 2024-10-22 06:09:19
+7. URL:www.cmsc202.edu Visited On: 2024-11-15 12:16:21
+8. URL:http://ruetoc-ruetoc.193b.starter-ca-central-1.openshiftapps.com/ Visited On: 2024-10-21 05:28:09
+9. URL:https://github.com/shawon100 Visited On: 2024-10-14 07:21:35
+10. URL:https://myaccount.laxmicoin.com/register?ref=lo08cp432io0w8k4 Visited On: 2024-10-09 16:11:31
+11. URL:https://my.umbc.edu/ Visited On: 2024-10-02 07:38:45
+
+Current Website:
+URL:https://web.facebook.com/?_rdc=1&_rdr Visited On: 2024-11-14 05:53:21
+
+What would you like to do?
+1. Display Browser History
+2. Go Back
+3. Go Forward
+4. Visit Site
+5. Quit
+4
+Enter the URL of the new site:
+www.test123.com
+Current Website:
+URL:www.test123.com Visited On: 2024-11-15 12:16:38
+
+What would you like to do?
+1. Display Browser History
+2. Go Back
+3. Go Forward
+4. Visit Site
+5. Quit
+1
+
+**Back Stack**
+1. URL:https://web.facebook.com/?_rdc=1&_rdr Visited On: 2024-11-14 05:53:21
+
+**Forward Stack**
+1. URL:https://drive.google.com/drive/my-drive Visited On: 2024-11-14 04:27:25
+2. URL:http://localhost/phpmyadmin/ Visited On: 2024-11-14 01:11:08
+3. URL:https://www.youtube.com/ Visited On: 2024-11-13 08:53:40
+4. URL:https://console.starter-ca-central-1.openshift.com/console/ Visited On: 2024-10-24 06:33:51
+5. URL:http://daler.org/ Visited On: 2024-10-24 05:42:44
+6. URL:http://ruetoj-ruetoj.193b.starter-ca-central-1.openshiftapps.com/home.php Visited On: 2024-10-22 06:09:19
+7. URL:www.cmsc202.edu Visited On: 2024-11-15 12:16:21
+8. URL:http://ruetoc-ruetoc.193b.starter-ca-central-1.openshiftapps.com/ Visited On: 2024-10-21 05:28:09
+9. URL:https://github.com/shawon100 Visited On: 2024-10-14 07:21:35
+10. URL:https://myaccount.laxmicoin.com/register?ref=lo08cp432io0w8k4 Visited On: 2024-10-09 16:11:31
+11. URL:https://my.umbc.edu/ Visited On: 2024-10-02 07:38:45
+
+Current Website:
+URL:www.test123.com Visited On: 2024-11-15 12:16:38
+
+What would you like to do?
+1. Display Browser History
+2. Go Back
+3. Go Forward
+4. Visit Site
+5. Quit
+1
+
+**Back Stack**
+1. URL:https://web.facebook.com/?_rdc=1&_rdr Visited On: 2024-11-14 05:53:21
+
+**Forward Stack**
+1. URL:https://drive.google.com/drive/my-drive Visited On: 2024-11-14 04:27:25
+2. URL:http://localhost/phpmyadmin/ Visited On: 2024-11-14 01:11:08
+3. URL:https://www.youtube.com/ Visited On: 2024-11-13 08:53:40
+4. URL:https://console.starter-ca-central-1.openshift.com/console/ Visited On: 2024-10-24 06:33:51
+5. URL:http://daler.org/ Visited On: 2024-10-24 05:42:44
+6. URL:http://ruetoj-ruetoj.193b.starter-ca-central-1.openshiftapps.com/home.php Visited On: 2024-10-22 06:09:19
+7. URL:www.cmsc202.edu Visited On: 2024-11-15 12:16:21
+8. URL:http://ruetoc-ruetoc.193b.starter-ca-central-1.openshiftapps.com/ Visited On: 2024-10-21 05:28:09
+9. URL:https://github.com/shawon100 Visited On: 2024-10-14 07:21:35
+10. URL:https://myaccount.laxmicoin.com/register?ref=lo08cp432io0w8k4 Visited On: 2024-10-09 16:11:31
+11. URL:https://my.umbc.edu/ Visited On: 2024-10-02 07:38:45
+
+Current Website:
+URL:www.test123.com Visited On: 2024-11-15 12:16:38
+
+What would you like to do?
+1. Display Browser History
+2. Go Back
+3. Go Forward
+4. Visit Site
+5. Quit
+3
+Current Website:
+URL:https://drive.google.com/drive/my-drive Visited On: 2024-11-14 04:27:25
+
+What would you like to do?
+1. Display Browser History
+2. Go Back
+3. Go Forward
+4. Visit Site
+5. Quit
+3
+Current Website:
+URL:http://localhost/phpmyadmin/ Visited On: 2024-11-14 01:11:08
+
+What would you like to do?
+1. Display Browser History
+2. Go Back
+3. Go Forward
+4. Visit Site
+5. Quit
+3
+Current Website:
+URL:https://www.youtube.com/ Visited On: 2024-11-13 08:53:40
+
+What would you like to do?
+1. Display Browser History
+2. Go Back
+3. Go Forward
+4. Visit Site
+5. Quit
+3
+Current Website:
+URL:https://console.starter-ca-central-1.openshift.com/console/ Visited On: 2024-10-24 06:33:51
+
+What would you like to do?
+1. Display Browser History
+2. Go Back
+3. Go Forward
+4. Visit Site
+5. Quit
+1
+
+**Back Stack**
+1. URL:https://www.youtube.com/ Visited On: 2024-11-13 08:53:40
+2. URL:http://localhost/phpmyadmin/ Visited On: 2024-11-14 01:11:08
+3. URL:https://drive.google.com/drive/my-drive Visited On: 2024-11-14 04:27:25
+4. URL:www.test123.com Visited On: 2024-11-15 12:16:38
+5. URL:https://web.facebook.com/?_rdc=1&_rdr Visited On: 2024-11-14 05:53:21
+
+**Forward Stack**
+1. URL:http://daler.org/ Visited On: 2024-10-24 05:42:44
+2. URL:http://ruetoj-ruetoj.193b.starter-ca-central-1.openshiftapps.com/home.php Visited On: 2024-10-22 06:09:19
+3. URL:www.cmsc202.edu Visited On: 2024-11-15 12:16:21
+4. URL:http://ruetoc-ruetoc.193b.starter-ca-central-1.openshiftapps.com/ Visited On: 2024-10-21 05:28:09
+5. URL:https://github.com/shawon100 Visited On: 2024-10-14 07:21:35
+6. URL:https://myaccount.laxmicoin.com/register?ref=lo08cp432io0w8k4 Visited On: 2024-10-09 16:11:31
+7. URL:https://my.umbc.edu/ Visited On: 2024-10-02 07:38:45
+
+Current Website:
+URL:https://console.starter-ca-central-1.openshift.com/console/ Visited On: 2024-10-24 06:33:51
+
+What would you like to do?
+1. Display Browser History
+2. Go Back
+3. Go Forward
+4. Visit Site
+5. Quit
+3
+Current Website:
+URL:http://daler.org/ Visited On: 2024-10-24 05:42:44
+
+What would you like to do?
+1. Display Browser History
+2. Go Back
+3. Go Forward
+4. Visit Site
+5. Quit
+3
+Current Website:
+URL:http://ruetoj-ruetoj.193b.starter-ca-central-1.openshiftapps.com/home.php Visited On: 2024-10-22 06:09:19
+
+What would you like to do?
+1. Display Browser History
+2. Go Back
+3. Go Forward
+4. Visit Site
+5. Quit
+3
+Current Website:
+URL:www.cmsc202.edu Visited On: 2024-11-15 12:16:21
+
+What would you like to do?
+1. Display Browser History
+2. Go Back
+3. Go Forward
+4. Visit Site
+5. Quit
+3
+Current Website:
+URL:http://ruetoc-ruetoc.193b.starter-ca-central-1.openshiftapps.com/ Visited On: 2024-10-21 05:28:09
+
+What would you like to do?
+1. Display Browser History
+2. Go Back
+3. Go Forward
+4. Visit Site
+5. Quit
+3
+Current Website:
+URL:https://github.com/shawon100 Visited On: 2024-10-14 07:21:35
+
+What would you like to do?
+1. Display Browser History
+2. Go Back
+3. Go Forward
+4. Visit Site
+5. Quit
+1
+
+**Back Stack**
+1. URL:http://ruetoc-ruetoc.193b.starter-ca-central-1.openshiftapps.com/ Visited On: 2024-10-21 05:28:09
+2. URL:www.cmsc202.edu Visited On: 2024-11-15 12:16:21
+3. URL:http://ruetoj-ruetoj.193b.starter-ca-central-1.openshiftapps.com/home.php Visited On: 2024-10-22 06:09:19
+4. URL:http://daler.org/ Visited On: 2024-10-24 05:42:44
+5. URL:https://console.starter-ca-central-1.openshift.com/console/ Visited On: 2024-10-24 06:33:51
+6. URL:https://www.youtube.com/ Visited On: 2024-11-13 08:53:40
+7. URL:http://localhost/phpmyadmin/ Visited On: 2024-11-14 01:11:08
+8. URL:https://drive.google.com/drive/my-drive Visited On: 2024-11-14 04:27:25
+9. URL:www.test123.com Visited On: 2024-11-15 12:16:38
+10. URL:https://web.facebook.com/?_rdc=1&_rdr Visited On: 2024-11-14 05:53:21
+
+**Forward Stack**
+1. URL:https://myaccount.laxmicoin.com/register?ref=lo08cp432io0w8k4 Visited On: 2024-10-09 16:11:31
+2. URL:https://my.umbc.edu/ Visited On: 2024-10-02 07:38:45
+
+Current Website:
+URL:https://github.com/shawon100 Visited On: 2024-10-14 07:21:35
+
+What would you like to do?
+1. Display Browser History
+2. Go Back
+3. Go Forward
+4. Visit Site
+5. Quit
+3
+Current Website:
+URL:https://myaccount.laxmicoin.com/register?ref=lo08cp432io0w8k4 Visited On: 2024-10-09 16:11:31
+
+What would you like to do?
+1. Display Browser History
+2. Go Back
+3. Go Forward
+4. Visit Site
+5. Quit
+3
+Current Website:
+URL:https://my.umbc.edu/ Visited On: 2024-10-02 07:38:45
+
+What would you like to do?
+1. Display Browser History
+2. Go Back
+3. Go Forward
+4. Visit Site
+5. Quit
+3
+Current Website:
+URL:https://my.umbc.edu/ Visited On: 2024-10-02 07:38:45
+
+What would you like to do?
+1. Display Browser History
+2. Go Back
+3. Go Forward
+4. Visit Site
+5. Quit
+1
+
+**Back Stack**
+1. URL:https://myaccount.laxmicoin.com/register?ref=lo08cp432io0w8k4 Visited On: 2024-10-09 16:11:31
+2. URL:https://github.com/shawon100 Visited On: 2024-10-14 07:21:35
+3. URL:http://ruetoc-ruetoc.193b.starter-ca-central-1.openshiftapps.com/ Visited On: 2024-10-21 05:28:09
+4. URL:www.cmsc202.edu Visited On: 2024-11-15 12:16:21
+5. URL:http://ruetoj-ruetoj.193b.starter-ca-central-1.openshiftapps.com/home.php Visited On: 2024-10-22 06:09:19
+6. URL:http://daler.org/ Visited On: 2024-10-24 05:42:44
+7. URL:https://console.starter-ca-central-1.openshift.com/console/ Visited On: 2024-10-24 06:33:51
+8. URL:https://www.youtube.com/ Visited On: 2024-11-13 08:53:40
+9. URL:http://localhost/phpmyadmin/ Visited On: 2024-11-14 01:11:08
+10. URL:https://drive.google.com/drive/my-drive Visited On: 2024-11-14 04:27:25
+11. URL:www.test123.com Visited On: 2024-11-15 12:16:38
+12. URL:https://web.facebook.com/?_rdc=1&_rdr Visited On: 2024-11-14 05:53:21
+
+**Forward Stack**
+Empty
+
+
+Current Website:
+URL:https://my.umbc.edu/ Visited On: 2024-10-02 07:38:45
+
+What would you like to do?
+1. Display Browser History
+2. Go Back
+3. Go Forward
+4. Visit Site
+5. Quit
+4
+Enter the URL of the new site:
+www.superCMSC202.com
+Current Website:
+URL:www.superCMSC202.com Visited On: 2024-11-15 12:17:02
+
+What would you like to do?
+1. Display Browser History
+2. Go Back
+3. Go Forward
+4. Visit Site
+5. Quit
+1
+
+**Back Stack**
+1. URL:https://my.umbc.edu/ Visited On: 2024-10-02 07:38:45
+2. URL:https://myaccount.laxmicoin.com/register?ref=lo08cp432io0w8k4 Visited On: 2024-10-09 16:11:31
+3. URL:https://github.com/shawon100 Visited On: 2024-10-14 07:21:35
+4. URL:http://ruetoc-ruetoc.193b.starter-ca-central-1.openshiftapps.com/ Visited On: 2024-10-21 05:28:09
+5. URL:www.cmsc202.edu Visited On: 2024-11-15 12:16:21
+6. URL:http://ruetoj-ruetoj.193b.starter-ca-central-1.openshiftapps.com/home.php Visited On: 2024-10-22 06:09:19
+7. URL:http://daler.org/ Visited On: 2024-10-24 05:42:44
+8. URL:https://console.starter-ca-central-1.openshift.com/console/ Visited On: 2024-10-24 06:33:51
+9. URL:https://www.youtube.com/ Visited On: 2024-11-13 08:53:40
+10. URL:http://localhost/phpmyadmin/ Visited On: 2024-11-14 01:11:08
+11. URL:https://drive.google.com/drive/my-drive Visited On: 2024-11-14 04:27:25
+12. URL:www.test123.com Visited On: 2024-11-15 12:16:38
+13. URL:https://web.facebook.com/?_rdc=1&_rdr Visited On: 2024-11-14 05:53:21
+
+**Forward Stack**
+Empty
+
+
+Current Website:
+URL:www.superCMSC202.com Visited On: 2024-11-15 12:17:02
+
+What would you like to do?
+1. Display Browser History
+2. Go Back
+3. Go Forward
+4. Visit Site
+5. Quit
+6
+What would you like to do?
+1. Display Browser History
+2. Go Back
+3. Go Forward
+4. Visit Site
+5. Quit
+0
+What would you like to do?
+1. Display Browser History
+2. Go Back
+3. Go Forward
+4. Visit Site
+5. Quit
+5
+Ending Browser History Simulator
